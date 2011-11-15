@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+# Look in working directory for ruby libraries
+export RUBYLIB="."
+
 # This is an RVM Project .rvmrc file, used to automatically load the ruby
 # development environment upon cd'ing into the directory
 
